@@ -1,0 +1,5 @@
+# Claude Code config for this project; may hold login data
+claude-config/
+
+# Local secrets
+.env
